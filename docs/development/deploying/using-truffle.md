@@ -171,4 +171,4 @@ truffle migrate --network exx
 ```
 
 Congratulations! 
-You have successfully deployed a Smart Contract using Truffle. Now you can interact with it check your deployment status on [EXXscan](https://testnet.exxscan.com/)
+You have successfully deployed a Smart Contract using Truffle. Now you can interact with it check your deployment status on [EXXscan](https://exxscan.com/)

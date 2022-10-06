@@ -40,7 +40,7 @@ To connect to EXX Testnet, we have to configure Metamask to direct to our RPC. I
 
 - Enter `EXX` for the currency symbol
 
-- Enter `https://testnet.exxscan.com` for the Block explorer
+- Enter `https://exxscan.com` for the Block explorer
 
 ![Network](/img/NetworkConfiguration.png)
 

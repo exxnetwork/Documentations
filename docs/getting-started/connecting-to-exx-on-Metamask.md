@@ -7,7 +7,7 @@ sidebar_label: Connection
 
 In order to view and operate on the EXX testnet, you will need to add our RPC and other credentials to your Metamask.
 
-You can either add EXX network automatically on [EXXscan](https://testnet.exxscan.com)or add mannually.
+You can either add EXX network automatically on [EXXscan](https://exxscan.com)or add mannually.
 
 In this tutorial, we will cover how to add manually.
 
@@ -28,7 +28,7 @@ In this tutorial, we will cover how to add manually.
 
 6. Enter `EXX` for the currency symbol
 
-7. Enter `https://testnet.exxscan.com` for the Block explorer then save.
+7. Enter `https://exxscan.com` for the Block explorer then save.
 
 ![network_config](/img/NetworkConfiguration.png) 
 
@@ -36,7 +36,7 @@ In this tutorial, we will cover how to add manually.
 
 
 ## How to add on EXXscan
-1. Proceed to the explorer <https://testnet.exxscan.com> 
+1. Proceed to the explorer <https://exxscan.com> 
 
 2. Scroll to the buttom and find the button showing `Add to Metamask`.
 

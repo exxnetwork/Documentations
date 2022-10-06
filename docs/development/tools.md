@@ -14,7 +14,7 @@ At the current stage of the project, the following tools are usable and useful f
 | Tools | Tools |
 |-----------------------|------------------------------------|
 |Wallets | [Metamask](https://metamask.io/) |
-|Block Explorer| [EXXscan](https://testnet.exxscan.com) |
+|Block Explorer| [EXXscan](https://exxscan.com) |
 |Faucet| [EXX Faucet](https://faucet.exx.network)  |
 |Smart Contract Language| [Solidity ](https://solidity.readthedocs.io/en/latest/)  |
 |Dev Frameworks| [Truffle](https://trufflesuite.com/), [Waffle](https://getwaffle.io/), [OpenZeppelin SDK](https://openzeppelin.com/sdk/), [hardhat](https://hardhat.org/)  |
