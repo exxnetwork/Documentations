@@ -47,8 +47,8 @@ You are in terminal create a dir by `mkdir workspace`. And go to that directory 
 now clone the git repos here by 
 
 ```bash  
-git clone https://github.com/exxnetwork/exxpoas-keypair-util.git
-git clone https://github.com/exxnetwork/exxpoas-consensus-system.git
+git clone https://github.com/exxnetwork/keypair-util.git
+git clone https://github.com/exxnetwork/consensus-system.git
 ```
 
 These two consecutive commands will clone two different repo `keypair-utill`, `consensus-system`.
